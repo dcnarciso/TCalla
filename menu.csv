@@ -1,0 +1,136 @@
+,Category,Item,Cost,Cals
+0,new,Triple Double Crunchwrap Box,$5.00,1040-1330 Cal
+1,new,Beefy Crunch Burrito Duo,$2.00,430-720 Cal
+2,new,Caramel Apple Freeze,$2.39,190-220 Cal
+3,new,Triple Double Crunchwrap,$3.49,700 Cal
+4,new,Chipotle Triple Double Crunchwrap,$3.49,770 Cal
+5,new,Beefy Crunch Burrito,$1.49,430 Cal
+6,new,Steak and Egg Stacker,$2.00,430 Cal
+7,new,Breakfast Stacker - Egg and Cheese,$1.29,380 Cal
+8,specialties,Triple Double Crunchwrap,$3.49,700 Cal
+9,specialties,Chipotle Triple Double Crunchwrap,$3.49,770 Cal
+10,specialties,Crunchwrap Supreme®,$3.49,530 Cal
+11,specialties,Chalupa Supreme,$2.79,350 Cal
+12,specialties,Cheesy Gordita Crunch,$3.29,500 Cal
+13,specialties,Power Menu Bowl,$5.19,500 Cal
+14,specialties,Power Menu Bowl - Veggie,$5.19,480 Cal
+15,specialties,Mexican Pizza,$3.59,540 Cal
+16,specialties,Fiesta Taco Salad,$5.29,760 Cal
+17,specialties,Cheesy Roll Up,$1.00,180 Cal
+18,specialties,MexiMelt®,$2.59,250 Cal
+19,specialties,Gordita Supreme®,$2.79,280 Cal
+20,tacos,Soft Taco,$1.19,180 Cal
+21,tacos,Soft Taco Supreme®,$1.69,210 Cal
+22,tacos,Crunchy Taco,$1.19,170 Cal
+23,tacos,Crunchy Taco Supreme®,$1.69,190 Cal
+24,tacos,Cheesy Gordita Crunch,$3.29,500 Cal
+25,tacos,Chalupa Supreme,$2.79,350 Cal
+26,tacos,Nacho Cheese Doritos® Locos Tacos,$1.79,160 Cal
+27,tacos,Nacho Cheese Doritos® Locos Tacos Supreme®,$2.29,190 Cal
+28,tacos,Fiery Doritos® Locos Tacos,$1.79,170 Cal
+29,tacos,Fiery Doritos® Locos Tacos Supreme®,$2.29,190 Cal
+30,tacos,Cool Ranch® Doritos® Locos Tacos,$1.79,170 Cal
+31,tacos,Cool Ranch® Doritos® Locos Tacos Supreme®,$2.29,190 Cal
+32,tacos,Double Decker® Taco,$2.19,320 Cal
+33,tacos,Double Decker® Taco Supreme®,$2.59,340 Cal
+34,tacos,Grilled Steak Soft Taco,$2.69,200 Cal
+35,tacos,Chicken Soft Taco,$1.99,170 Cal
+36,burritos,Beefy Crunch Burrito,$1.49,430 Cal
+37,burritos,Quesarito,$2.99,650 Cal
+38,burritos,Beefy Fritos® Burrito,$1.00,440 Cal
+39,burritos,Bean Burrito,$1.19,380 Cal
+40,burritos,XXL Grilled Stuft Burrito,$4.69,870 Cal
+41,burritos,Beefy 5-Layer Burrito,$1.99,500 Cal
+42,burritos,Cheesy Bean and Rice Burrito,$1.00,430 Cal
+43,burritos,Shredded Chicken Burrito,$2.19,420 Cal
+44,burritos,Burrito Supreme®,$3.39,400 Cal
+45,burritos,Cheesy Potato Griller,$1.89,340 Cal
+46,burritos,Beefy Nacho Griller,$1.89,370 Cal
+47,burritos,Chipotle Chicken Loaded Griller,$1.89,340 Cal
+48,burritos,7-Layer Burrito,$3.19,440 Cal
+49,burritos,Power Menu Burrito,$4.19,450 Cal
+50,burritos,Power Menu Burrito - Veggie,$4.19,430 Cal
+51,burritos,Black Bean Burrito,$2.29,390 Cal
+52,quesadillas,Chicken Quesadilla,$3.89,510 Cal
+53,quesadillas,Quesadilla Combo #7,$6.29,680-1110 Cal
+54,quesadillas,Shredded Chicken Mini Quesadilla,$1.00,200 Cal
+55,quesadillas,Steak Quesadilla,$3.89,510 Cal
+56,quesadillas,Cheese Quesadilla,$2.49,460 Cal
+57,quesadillas,Beefy Mini Quesadilla,$1.00,210 Cal
+58,nachos,Nachos BellGrande®,$3.39,750 Cal
+59,nachos,Nachos BellGrande® Combo #5,$6.29,940-1370 Cal
+60,nachos,Nachos Supreme®,$2.69,440 Cal
+61,nachos,Triple Layer Nachos,$1.00,320 Cal
+62,nachos,Chips and Nacho Cheese Sauce,$1.59,220 Cal
+63,nachos,Chips and Guacamole,$1.49,230 Cal
+64,nachos,Chips and Salsa,$1.49,180 Cal
+65,nachos,Chips and Pico De Gallo,$1.49,170 Cal
+66,sweets,Cinnamon Twists,$1.00,170 Cal
+67,sweets,Cinnabon Delights® 12 Pack,$4.99,930 Cal
+68,sweets,Cinnabon Delights® 4 Pack,$1.99,310 Cal
+69,sweets,Cinnabon Delights® 2 Pack,$1.00,160 Cal
+70,sweets,Caramel Apple Empanada,$1.00,280 Cal
+71,sweets,Mountain Dew® Baja Blast™ Freeze,$2.39,180-230 Cal
+72,sweets,Strawberry Skittles® Freeze,$2.39,160-210 Cal
+73,sides,Cheesy Fiesta Potatoes,$1.49,230 Cal
+74,sides,Cheesy Roll Up,$1.00,180 Cal
+75,sides,Chips and Nacho Cheese Sauce,$1.59,220 Cal
+76,sides,Chips and Salsa,$1.49,180 Cal
+77,sides,Chips and Guacamole,$1.49,230 Cal
+78,sides,Chips and Pico De Gallo,$1.49,170 Cal
+79,sides,Black Beans,$1.49,80 Cal
+80,sides,Black Beans and Rice,$1.49,190 Cal
+81,sides,Pintos N Cheese,$1.39,190 Cal
+82,sides,Seasoned Rice,$1.49,120 Cal
+83,drinks,Caramel Apple Freeze,$2.39,190-220 Cal
+84,drinks,Mountain Dew® Baja Blast™ Freeze,$2.39,180-230 Cal
+85,drinks,Strawberry Skittles® Freeze,$2.39,160-210 Cal
+86,drinks,Fountain Drink,$1.99,0-430 Cal
+87,drinks,Pepsi®,$1.99,200-380 Cal
+88,drinks,Diet Pepsi®,$1.99,0 Cal
+89,drinks,Mountain Dew®,$1.99,220-410 Cal
+90,drinks,Mountain Dew® Baja Blast™,$1.99,220-420 Cal
+91,drinks,Mountain Dew® Spiked Lemonade,$1.99,130-250 Cal
+92,drinks,Mountain Dew® Kickstart™ Orange Citrus,$1.99,70-130 Cal
+93,drinks,Sierra Mist®,$1.99,200-380 Cal
+94,drinks,G2 Gatorade® Fruit Punch,$1.99,30-50 Cal
+95,drinks,Tropicana® Pink Lemonade,$1.99,210-390 Cal
+96,drinks,Brisk® Mango Fiesta,$1.99,100-180 Cal
+97,drinks,Lipton® Unsweetened Iced Tea,$1.99,0 Cal
+98,drinks,Orange Juice,$1.99,140 Cal
+99,drinks,Cup of Water,$0.00,0 Cal
+100,drinks,Iced Regular Coffee,$1.49,10 Cal
+101,drinks,Premium Hot Coffee,$1.49,10 Cal
+102,drinks,Happier Hour® Beverage,$1.00,0-290 Cal
+103,vegetarian,Power Menu Bowl - Veggie,$5.19,480 Cal
+104,vegetarian,Power Menu Burrito - Veggie,$4.19,430 Cal
+105,vegetarian,Cheese Quesadilla,$2.69,460 Cal
+106,vegetarian,Bean Burrito,$1.19,380 Cal
+107,vegetarian,Black Bean Burrito,$2.29,390 Cal
+108,vegetarian,7-Layer Burrito,$3.19,440 Cal
+109,vegetarian,Cheesy Roll Up,$1.00,180 Cal
+110,vegetarian,Pintos N Cheese,$1.39,190 Cal
+111,vegetarian,Black Beans and Rice,$1.49,190 Cal
+112,vegetarian,Spicy Tostada,$1.00,210 Cal
+113,vegetarian,Cheesy Bean and Rice Burrito,$1.00,430 Cal
+114,breakfast,Steak and Egg Stacker,$2.00,430 Cal
+115,breakfast,Breakfast Stacker - Egg and Cheese,$1.29,380 Cal
+116,breakfast,Breakfast Crunchwrap®,$2.49,660 Cal
+117,breakfast,Breakfast Crunchwrap® Combo #17,$4.49,820-1110 Cal
+118,breakfast,Grande Scrambler,$2.49,650 Cal
+119,breakfast,Grande Scrambler Combo #18,$4.69,810-1100 Cal
+120,breakfast,Breakfast Quesadilla,$1.99,510 Cal
+121,breakfast,Breakfast Quesadilla Combo #19,$3.99,670-960 Cal
+122,breakfast,Grilled Breakfast Burrito,$1.00,340 Cal
+123,breakfast,Grilled Breakfast Burrito Fiesta Potato,$1.00,340 Cal
+124,breakfast,Cinnabon Delights® 12 Pack,$4.89,930 Cal
+125,breakfast,Cinnabon Delights® 4 Pack,$1.89,310 Cal
+126,breakfast,Cinnabon Delights® 2 Pack,$1.00,160 Cal
+127,breakfast,Breakfast Soft Taco,$1.00,230 Cal
+128,breakfast,Sausage Flatbread Quesadilla,$1.00,330 Cal
+129,breakfast,Hash Brown,$1.00,160 Cal
+130,breakfast,Mini Skillet Bowl,$1.00,180 Cal
+131,breakfast,Iced Regular Coffee,$1.49,10 Cal
+132,breakfast,Premium Hot Coffee,$1.49,10 Cal
+133,breakfast,Mountain Dew® Kickstart™ Orange Citrus - Small,$1.00,70 Cal
+134,breakfast,Orange Juice,$1.99,140 Cal
